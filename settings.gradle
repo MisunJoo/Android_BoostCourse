@@ -1,2 +1,2 @@
-include ':app', ':mybasicwidget', ':mytablelayout', ':myscrollview', ':myevent', ':mytoast'
+include ':app', ':mybasicwidget', ':mytablelayout', ':myscrollview', ':myevent', ':mytoast', ':mydialog'
 rootProject.name='MyConstraintLayout'
